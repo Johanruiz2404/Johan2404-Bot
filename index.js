@@ -143,4 +143,4 @@ Client.on("message", message => {
     }   
 });
 
-Client.login("ODUzMDEwOTE1ODI5NDgxNTE2.YMPKUg.ZmBdJoUqWxbuRomYsK6lx7GowA4");
+Client.login("ODUzMDEwOTE1ODI5NDgxNTE2.YMPKUg.igl-Q5pRbFC9ZrUNpKo4-LCNvzg");
