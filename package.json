@@ -1,0 +1,14 @@
+{
+  "name": "johan2404_bot",
+  "version": "7.5.4",
+  "description": "",
+  "main": "index.js",
+  "author": "Pentiminax",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
